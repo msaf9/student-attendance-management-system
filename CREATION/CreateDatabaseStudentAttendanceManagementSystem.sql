@@ -1,2 +1,0 @@
-CREATE DATABASE `studentattendancemanagementsystem`;
-USE studentattendancemanagementsystem;
