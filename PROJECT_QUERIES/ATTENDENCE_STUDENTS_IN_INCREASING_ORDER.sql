@@ -1,0 +1,4 @@
+# Display the ATTENDENCE report of STUDENTs in increasing order of their STUDENT_ID irrespective of their SECTIONs?
+SELECT S.STUDENT_ID, S.STUDENT_NAME, A.STATUS, A.DATE
+FROM STUDENT S, ATTENDENCE A
+WHERE S.STUDENT_ID=A.STUDENT_ID;
