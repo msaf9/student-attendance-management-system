@@ -30,5 +30,14 @@ This repository consists of queries related to a relational database to maintain
 > **Completed**
 
 ## Installation
-
+### Get repository
+```git
+git clone https://github.com/msaf9/StudentAttendanceManagementSystem.git
+cd StudentAttendanceManagementSystem
+```
+### Example to create DATABASE - SQL query 
+```sql
+CREATE DATABASE `studentattendancemanagementsystem`;
+USE studentattendancemanagementsystem;
+```
 ## License
