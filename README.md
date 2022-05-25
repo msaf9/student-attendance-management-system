@@ -11,8 +11,13 @@ A relational database to maintain university student records.
 ## Introduction
 This repository consists of queries related to a relational database to maintain university student records, which have various tables storing different information affiliated to students.
 
-### Database information
+### Course information
+- Course Name: Database Systems
+- Course Code: 15CS2007
+- Course Credits: 4
+- Academic Year: 2017
 
+### Database information
 #### Tables
 1. attendence
 2. course
