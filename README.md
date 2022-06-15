@@ -3,6 +3,7 @@ A relational database to maintain university student records.
 
 - [Student Attendance Management System Database](#student-attendance-management-system-database)
   - [Introduction](#introduction)
+    - [Course information](#course-information)
     - [Database information](#database-information)
       - [Tables](#tables)
   - [Technologies](#technologies)
