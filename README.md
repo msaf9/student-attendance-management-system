@@ -1,12 +1,16 @@
 # Student Attendance Management System Database
 A relational database to maintain university student records.
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Student Attendance Management System Database](#student-attendance-management-system-database)
+  - [Introduction](#introduction)
+    - [Database information](#database-information)
+      - [Tables](#tables)
+  - [Technologies](#technologies)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+    - [Example to create DATABASE - SQL query](#example-to-create-database---sql-query)
+  - [License](#license)
 
 ## Introduction
 This repository consists of queries related to a relational database to maintain university student records, which have various tables storing different information affiliated to students.
