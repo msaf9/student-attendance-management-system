@@ -49,8 +49,8 @@ This repository consists of queries related to a relational database to maintain
 ### Get repository
 
 ```git
-git clone https://github.com/msaf9/StudentAttendanceManagementSystem.git
-cd StudentAttendanceManagementSystem
+git clone https://github.com/msaf9/student-attendance-management-system.git
+cd student-attendance-management-system
 ```
 
 ### Example to create DATABASE - SQL query
