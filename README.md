@@ -1,11 +1,13 @@
 <h1> Student Attendance Management System Database </h1>
 A relational database to maintain university student records.
 
+<h2>Table of contents</h2>
+
 - [Introduction](#introduction)
   - [Course information](#course-information)
   - [Database information](#database-information)
     - [Tables](#tables)
-- [Technologies](#technologies)
+- [Relational Databases](#relational-databases)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
@@ -35,7 +37,7 @@ This repository consists of queries related to a relational database to maintain
 6. student
 7. student_course
 
-## Technologies
+## Relational Databases
 
 - SQL
 - Database Management System: MySQL
