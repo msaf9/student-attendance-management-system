@@ -63,3 +63,4 @@ USE studentattendancemanagementsystem;
 ```
 
 ## License
+[MIT LICENSE](LICENSE)
