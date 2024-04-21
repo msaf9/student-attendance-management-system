@@ -1,5 +1,6 @@
 <h1> Student Attendance Management System Database </h1>
-A relational database to maintain university student records.
+
+This repository consists of queries related to a relational database to maintain university student records, which have various tables storing different information affiliated with students.
 
 <h2>Table of contents</h2>
 
@@ -16,7 +17,7 @@ A relational database to maintain university student records.
 
 ## Introduction
 
-This repository consists of queries related to a relational database to maintain university student records, which have various tables storing different information affiliated to students.
+This repository contains the SQL scripts and MySQL database design for efficiently managing student attendance. The project is designed to simplify attendance tracking for educational institutions. It offers a comprehensive database schema and SQL queries to handle various aspects of attendance management, including student registration, course enrollment, and attendance recording. The project focuses on simplicity, scalability, and reliability, aiming to provide a solid foundation for building attendance management systems customized to the needs of schools, colleges, and universities.
 
 ### Course information
 
